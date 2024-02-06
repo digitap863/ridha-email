@@ -247,12 +247,12 @@ body {
   font-family: Montserrat, 'Source Sans Pro';
   white-space: nowrap;
 }
-.email-Pf3 .group-39630-SdK .auto-group-mhak-MSm .rectangle-2KF {
+.email-Pf3 .group-39630-SdK .auto-group-mhak-MSm .rectangle-2KF img {
   width: 15.5rem;
   height: 9.3rem;
   position: relative;
   background-size: 100% 100%;
-  background-image: url('../assets/rectangle.png');
+  /* background-image: url('../assets/rectangle.png'); */
   flex-shrink: 0;
 }
 .email-Pf3 .group-39630-SdK .auto-group-p2y2-geh {
@@ -262,14 +262,14 @@ body {
   position: relative;
   flex-shrink: 0;
 }
-.email-Pf3 .group-39630-SdK .auto-group-p2y2-geh .rectangle-oDX {
+.email-Pf3 .group-39630-SdK .auto-group-p2y2-geh .rectangle-oDX img{
   width: 77.985rem;
   height: 14.4rem;
   position: relative;
   left: 0;
   top: 0;
   background-size: 100% 100%;
-  background-image: url('../assets/rectangle-3GH.png');
+  /* background-image: url('../assets/rectangle-3GH.png'); */
 }
 .email-Pf3 .group-39630-SdK .auto-group-p2y2-geh .vector-uXT {
   width: 39.4rem;
